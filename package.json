@@ -1,0 +1,15 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server2.js"
+  },
+  "author": "hamza",
+  "license": "MIT",
+  "dependencies": {
+    "generate-password": "^1.7.0"
+  }
+}
